@@ -1,0 +1,189 @@
+
+hr{
+    width: 384px;
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+
+.mr-16{
+    margin-right: 16px;
+}
+.mr-24{
+    margin-right: 24px;
+}
+.mb-16{
+    margin-bottom: 16px;
+}
+.mb-32{
+    margin-bottom: 32px;
+}
+.mb-56{
+    margin-bottom: 56px;
+}
+
+.container{
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    text-align: center;
+    width: 1920px;
+    margin: 0 auto;
+}
+.banner{
+    background: url(https://i.imgur.com/XnyWQpG.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    max-width: 100%;
+    padding-top: 356px;
+    padding-bottom: 268px;
+}
+.about, .otherWorks{
+    width: 1440px;
+    margin: 0 auto;
+}
+.about{
+    padding-top: 64px;
+    padding-bottom: 56px;
+}
+.aboutTitle{
+    font-size: 64px;
+    line-height: 75px;
+    font-weight: bold;
+    padding-bottom: 40px;
+}
+.photo{
+    padding-bottom: 24px;
+}
+.brand, .otherWorks{
+    padding-top: 64px;
+    padding-bottom: 160px;
+}
+.brand, .footer{
+    background: #000;
+}
+.brand{
+    color: #fff;
+}
+.brandTitle{
+    font-size: 64px;
+    line-height: 75px;
+    font-weight: bold;
+}
+.brandSlogan{
+    font-size: 24px;
+    line-height: 42px;
+}
+.brandContent{
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 68px;
+}
+.productBlock-1st{
+    margin-bottom: 40px;
+}
+.productBlock-2nd{
+    display: flex;
+    justify-content: center;
+}
+.textBlock{
+    color: #fff;
+}
+.textBlock-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    width: 304px;
+    margin-bottom: 32px;
+}
+.introTitle, .introContent{
+    text-align: left;
+}
+.introTitle{
+    font-size: 24px;
+    line-height: 42px;
+}
+.introContent{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 48px;
+}
+.name{
+    font-size: 80px;
+    line-height: 94px;
+    font-weight: bold;
+}
+.profile, .exp{
+    font-size: 24px;
+    line-height: 42px;
+}
+.profile{
+    font-weight: bold;
+}
+.exp{
+    font-size: 24px;
+    line-height: 42px;
+    font-weight: bold;
+}
+.circle{
+    width: 22px;
+    height: 22px;
+    margin-right: 16px;
+    display: inline-block;
+    background: #891818;
+    border-radius: 100%;
+}
+.iconBlock{
+    display: flex;
+    justify-content: center;
+}
+.worksTitle{
+    font-size: 64px;
+    line-height: 75px;
+    font-weight: bold;
+    padding-bottom: 24px;
+}
+.worksContent{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: bold;
+    padding-bottom: 56px;
+}
+.worksList{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.worksList p{
+    display: block;
+    font-size: 20px;
+    line-height: 42px;
+    font-weight: bold;
+}
+.iconBlock img:hover{
+    opacity: 70%;
+}
+.footer{
+    color: #fff;
+    padding-top: 64px;
+    padding-bottom: 80px;
+}
+.footer a{
+    color: #fff;
+    text-decoration: none;
+}
+.footer a:hover{
+    opacity: 70%;
+}
+.contantTitle{
+    font-size: 64px;
+    line-height: 75px;
+    font-weight: bold;
+}
+.email, .phone{
+    font-size: 24px;
+    line-height: 36px;
+}
